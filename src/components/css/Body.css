@@ -1,0 +1,17 @@
+.main-content{
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+.welcome-section{
+    text-align: center;
+}
+.features{
+    margin-top: 40px;
+}
+.features h3{
+    margin-top:40px;
+}
+.features ul{
+    list-style-type: square;
+    padding-left: 20px;
+}
